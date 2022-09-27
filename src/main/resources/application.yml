@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: eureka-server
+
+#These configurations will fetch from from config server file eureka-server.yml
+#server:
+#  port: 8761
+#eureka:
+#  client:
+#    register-with-eureka: false
+#    fetch-registry: false
+#    healthcheck:
+#      enabled: true
